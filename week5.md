@@ -8,5 +8,8 @@ Here's part of the svg image that I used to make the flag in inkscape.
 ![palmetto_svg](palmetto_svg.PNG)
 
 Here's the final product! I wanted to do something tricky and laser cut out the palmetto but the sizing didn't work. Next one will be much better!
+
+
 ***** change this ****
+
 ![palmetto_svg](palmetto_svg.PNG)
