@@ -8,6 +8,6 @@ Here's the login page where you can input data:
 
 ![server_login_page](server_login_page.png)
 
-Here's where you can register your account:
+Here's where you can register your account by clicking sign up now:
 
 ![server_register_wrong](server_register_wrong.PNG)
