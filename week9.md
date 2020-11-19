@@ -2,7 +2,7 @@
 
 Weeks 8,9, and 10 are a single project split into parts.
 
-I made it so that you can input data into my server using the website and store data.
+I made it so that you can input data into my server using a web browser and store it.
 
 Here's the login page where you can input data:
 
