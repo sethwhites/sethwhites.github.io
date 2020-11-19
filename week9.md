@@ -10,4 +10,4 @@ Here's the login page where you can input data:
 
 Here's where you can register your account:
 
-![server_register_wrong](server_register_wrong.png)
+![server_register_wrong](server_register_wrong.PNG)
