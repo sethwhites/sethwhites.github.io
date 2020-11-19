@@ -6,3 +6,25 @@ I made an In Circuit Programmer on a PCB(printed circuit board) that I can plug 
 ![pcbschem](circuit_brd_file.PNG)
 ![pcb](pcb.jpg)
 ![finished_pcb](finished_pcb.jpg)
+
+``` C
+/*
+  This program blinks pin 13 of the Arduino (the
+  built-in LED)
+*/
+
+void setup()
+{
+  pinMode(13, OUTPUT);
+}
+
+void loop()
+{
+  // turn the LED on (HIGH is the voltage level)
+  digitalWrite(13, HIGH);
+  delay(1000); // Wait for 1000 millisecond(s)
+  // turn the LED off by making the voltage LOW
+  digitalWrite(13, LOW);
+  delay(1000); // Wait for 1000 millisecond(s)
+}
+```
