@@ -9,7 +9,7 @@ __Home page:__
 
 ![server_home_page](server_home_page.png)
 
-__Terminal output while running the server and I click on links:__
+__Terminal output while running the server and clicking links:__
 
 ```
  * Serving Flask app "flask_blog" (lazy loading)
