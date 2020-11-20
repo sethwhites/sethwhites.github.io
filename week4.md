@@ -1,3 +1,8 @@
+---
+layout: page
+title: Week 4
+---
+
 # Week 4: 3-D Printing
 
 This week I downloaded a CAD file and learned to format it for 3-D printing and sent it over to the shop. It went over pretty well.  
