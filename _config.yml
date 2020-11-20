@@ -1,3 +1,40 @@
 title: Seth White's Projects
 description: Projects!
 theme: jekyll-theme-slate
+
+# Site navigation links
+- title: Home
+  url: /index.md/
+
+- title: Week 1
+  url: /week1.md/
+
+- title: Week 2
+  url: /week2.md/
+  
+  - title: Week 3
+  url: /week3.md/
+  
+  - title: Week 4
+  url: /week4.md/
+  
+  - title: Week 5
+  url: /week5.md/
+  
+  - title: Week 6
+  url: /week6.md/
+  
+  - title: Week 7
+  url: /week7.md/
+  
+  - title: Week 8
+  url: /week8.md/
+  
+  - title: Week 9
+  url: /weekmd9.md/
+  
+  - title: Week 10
+  url: /week10.md/
+  
+  - title: Week 11
+  url: /week11.md/
