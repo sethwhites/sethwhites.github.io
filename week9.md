@@ -12,7 +12,7 @@ You can register an account by clicking Register or sign up now on the Login pag
 
 ![server_register_page](server_register_page.png)
 
-Typing in data:
+Typing in data. When you click register or sign in it will save the data.
 
 <img src="server_register_wrong.PNG" alt="server_register_wrong" width="500"/>
 
