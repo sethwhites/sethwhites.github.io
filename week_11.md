@@ -8,5 +8,4 @@ Tile was very intuitive and the setup was minimal.
 
 For testing I took my keys and put them into another room and was able to find them using the tile app.
 
-![tile_fob_img](tile_fob_img.jpg)
-<img src="tile_fob_img.jpg" alt="tile_fob_img" width="300"/>
+<img src="tile_fob_img.jpg" alt="tile_fob_img" width="600"/>
