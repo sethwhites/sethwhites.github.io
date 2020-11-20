@@ -1,39 +1,39 @@
 # Site navigation links
 - title: Home
-  url: /index.md/
+  url: /index/
 
 - title: Week 1
-  url: /week1.md/
+  url: /week1/
 
 - title: Week 2
-  url: /week2.md/
+  url: /week2/
   
   - title: Week 3
-  url: /week3.md/
+  url: /week3/
   
   - title: Week 4
-  url: /week4.md/
+  url: /week4/
   
   - title: Week 5
-  url: /week5.md/
+  url: /week5/
   
   - title: Week 6
-  url: /week6.md/
+  url: /week6/
   
   - title: Week 7
-  url: /week7.md/
+  url: /week7/
   
   - title: Week 8
-  url: /week8.md/
+  url: /week8/
   
   - title: Week 9
-  url: /weekmd9.md/
+  url: /weekmd9/
   
   - title: Week 10
-  url: /week10.md/
+  url: /week10/
   
   - title: Week 11
-  url: /week11.md/
+  url: /week11/
   
 
 description: Projects!
