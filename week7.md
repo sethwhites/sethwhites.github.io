@@ -2,11 +2,11 @@
 
 This week I made an arduino blink in tinkerCAD. It was eerily similar to what I did in week 3. :)
 
-## Arduino Off:
+## Light Off:
 
 ![arduinoblink_off](arduinoblink_off.PNG)
 
-## Arduino On:
+## Light On:
 
 ![arduinoblink_on](arduinoblink_on.PNG)
 
