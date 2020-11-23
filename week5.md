@@ -12,4 +12,4 @@ Here's the final product! I wanted to do something tricky and laser cut out the 
 
 ***** change this ****
 
-![palmetto_svg](palmetto_svg.PNG)
+![palmetto_wood](palmetto_wood.jpg)
