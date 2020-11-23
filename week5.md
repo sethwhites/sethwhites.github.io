@@ -10,6 +10,4 @@ Here's part of the svg image that I used to make the flag in inkscape.
 Here's the final product! I wanted to do something tricky and laser cut out the palmetto but the sizing didn't work. Next one will be much better!
 
 
-***** change this ****
-
 ![palmetto_wood](palmetto_wood.jpg)
