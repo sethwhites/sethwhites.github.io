@@ -7,7 +7,7 @@ Here's part of the svg image that I used to make the flag in inkscape.
 
 ![palmetto_svg](palmetto_svg.PNG)
 
-Here's the final product! I wanted to do something tricky and laser cut out the palmetto but the sizing didn't work. Next one will be much better!
+Here's the final product! I wanted to do something tricky and laser cut out the palmetto but the sizing didn't match up going from the router to the laser cutter. Next designs I make in the future will be much better!
 
 
 ![palmetto_wood](palmetto_wood.jpg)
