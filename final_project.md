@@ -33,7 +33,7 @@ It's weird and I thought it would be cool to do. Especially because it's so diff
   - with hot glue gun. this worked surprisingly well.
 - scored back of motor chassis
 - hot glued the motor to the nose flute
-<img src="arduino_setup.jpg" alt="motor.jpg" width="300"/>
+<img src="motor.jpg" alt="motor" width="300"/>
 - used arduino to control motor
 
 ## Microcontroller
@@ -50,7 +50,7 @@ When the button is closed (pressed), it makes a connection between its two legs,
 
 Here's how everything was connected:
 
-<img src="arduino_setup.jpg" alt="arduino_setup.jpg" width="300"/>
+<img src="arduino_setup.jpg" alt="arduino_setup" width="300"/>
 
 Here's the code:
 ``` c++
@@ -104,7 +104,7 @@ When the button is pressed it moves from 97-180 degrees.
 This (video link)[https://photos.app.goo.gl/TNtic4PoJmcev7tH8] shows the code in action!
 
 The image below shows the final prototype.  
-<img src="arduino_setup.jpg" alt="full_system.jpg" width="300"/>
+<img src="arduino_setup.jpg" alt="full_system" width="300"/>
 
 ## Conclusion
 
