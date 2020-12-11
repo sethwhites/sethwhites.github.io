@@ -105,7 +105,7 @@ This [video link](https://photos.app.goo.gl/TNtic4PoJmcev7tH8) shows the code in
 
 The image below shows the final prototype.  
 
-<img src="full_system.jpg" alt="full_system" width="500"/>
+<img src="full_system.jpg" alt="full_system" width="1000"/>
 
 ## Conclusion
 
