@@ -19,7 +19,9 @@ It's weird and I thought it would be cool to do. Especially because it's so diff
 
 - Grabbed stl off of website
 - 3-D printed nose flute stl
+
 <img src="arduino_setup.jpg" alt="nose_flute_IMG.PNG" width="300"/>
+
 - learn about acoustic design and come up w/ mod ideas
   - putting blade at bottom like in imgs to make the flute more efficient, or louder
   - tube with holes like recorder attatched to the bottom flute hole that can change tone (didn't work)
