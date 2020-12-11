@@ -13,7 +13,7 @@ It's weird and I thought it would be cool to do. Especially because it's so diff
 - Grabbed stl off of website
 - 3-D printed nose flute stl
 
-<img src="nose_flute_IMG.jpg" alt="nose_flute" width="300"/>
+<img src="noseflute_img.PNG" alt="nose_flute" width="300"/>
 
 - learn about acoustic design and come up w/ mod ideas
   - putting blade at bottom like in imgs to make the flute more efficient, or louder
