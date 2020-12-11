@@ -101,7 +101,7 @@ void loop()
 
 When the button is pressed it moves from 97-180 degrees.  
 
-This (video link)[https://photos.app.goo.gl/TNtic4PoJmcev7tH8] shows the code in action!
+This [video link](https://photos.app.goo.gl/TNtic4PoJmcev7tH8) shows the code in action!
 
 The image below shows the final prototype.  
 
