@@ -52,9 +52,9 @@ When the pushbutton is open (unpressed) there is no connection between the two l
 so the pin is connected to ground (through the pull-down resistor) and we read a LOW.
 When the button is closed (pressed), it makes a connection between its two legs, connecting the pin to 5 volts, so that we read a HIGH.
 
-Here's how everything was connected:
+Here's how everything was connected:  
 
-<img src="arduino_setup.jpg" alt="arduino_setup" width="300"/>
+<img src="arduino_setup.jpg" alt="arduino_setup" width="300"/>  
 
 Here's the code:
 ``` c
@@ -104,9 +104,11 @@ void loop()
 ## Final Product
 
 When the button is pressed it moves from 97-180 degrees.  
+
 This (video link)[https://photos.app.goo.gl/TNtic4PoJmcev7tH8] shows the code in action!
 
 The image below shows the final prototype.  
+
 <img src="arduino_setup.jpg" alt="full_system" width="300"/>
 
 ## Conclusion
