@@ -36,9 +36,9 @@ It's weird and I thought it would be cool to do. Especially because it's so diff
 
 <img src="motor.jpg" alt="motor" width="700"/>
 
-## Microcontroller
+## Control System
 
-I used the motor by using the arduino, a breadboard, and a switch.  
+I implemented the control system by using an arduino, a breadboard, and a switch.  
 The microcontroller I used was an arduino. I used the arduino IDE to program the arduino.
 
 To set up the button I connected one of the ports of the button to ground and the other to 5V.
