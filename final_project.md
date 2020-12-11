@@ -1,12 +1,15 @@
 # Final Project: Nose Flute
 
 ## What I made:
+
 Nose flute where you can control the volume
 
 ## Why I chose the nose flute:
+
 It's weird and I thought it would be cool to do. Especially because it's so different.
 
 ## Used that I Learned from the class:
+
 - CAD design in fusion 360
 - 3-D printing
 - revisited arduino and C
@@ -25,6 +28,7 @@ It's weird and I thought it would be cool to do. Especially because it's so diff
 - made prototype using a thin piece of metal and found that I could control the volume
 
 ## Fabrication steps:
+
 - get micro servo motor to move the piece of metal:
 - used hole puncher for thin piece metal to make hole for screw
 - attatched to arm I screwed together that goes on the motor
@@ -53,7 +57,7 @@ Here's how everything was connected:
 <img src="arduino_setup.jpg" alt="arduino_setup" width="300"/>
 
 Here's the code:
-``` c++
+``` c
 #include <Servo.h> 
  
 Servo servo;  // create servo object to control a servo 
@@ -95,7 +99,6 @@ void loop()
     delay(15);
   }
 }
-
 ```
 
 ## Final Product
