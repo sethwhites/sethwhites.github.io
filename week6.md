@@ -1,9 +1,9 @@
 # Week 6: Molding and Casting
 
-The plan is to modify my figure 8 in the shape of a dragon or some object using clay and then make the form in plaster.  
-Dr. Smalley has a furnace I can use to turn around and change that plaster mold into a metal, such as aluminum.
+I did a sugar casting at home using sugar and chocolate for this week's project.
 
-![figure_8](figure_8.jpg)
+I used brown sugar to make a chocolate mold and grabbed a skeleton head that was lying around and imprinted it in the sugar and poured the chocolate in.
 
-Honestly I'll probably just do a sugar casting at home using sugar and chocolate.
+![figure_8](chocolate_head.PNG)
+![figure_8](everything_mold.PNG)
 
