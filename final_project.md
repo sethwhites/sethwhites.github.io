@@ -8,13 +8,6 @@ Nose flute where you can control the volume
 
 It's weird and I thought it would be cool to do. Especially because it's so different.
 
-## Used that I Learned from the class:
-
-- CAD design in fusion 360
-- 3-D printing
-- revisited arduino and C
-- revisited basic circuit design
-
 ## Design Process:
 
 - Grabbed stl off of website
