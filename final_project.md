@@ -37,8 +37,9 @@ It's weird and I thought it would be cool to do. Especially because it's so diff
   - with hot glue gun. this worked surprisingly well.
 - scored back of motor chassis
 - hot glued the motor to the nose flute
-<img src="motor.jpg" alt="motor" width="700"/>
 - used arduino to control motor
+
+<img src="motor.jpg" alt="motor" width="700"/>
 
 ## Microcontroller
 
