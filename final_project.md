@@ -45,14 +45,14 @@ To set up the button I connected one of the ports of the button to ground and th
 Between the button and ground I put a 10K ohm pull-down resistor to control the current.
 I hooked up another port of the button to pin 10 on the Arduino to control it.
 When the pushbutton is open (unpressed) there is no connection between the two legs of the pushbutton,
-so the pin is connected to ground (through the pull-down resistor) and we read a LOW.
+so the pin is connected to ground (through the pull-down resistor) and we read a LOW.  
 When the button is closed (pressed), it makes a connection between its two legs, connecting the pin to 5 volts, so that we read a HIGH.
 
 Here's how everything was connected:  
 
 <img src="arduino_setup.jpg" alt="arduino_setup" width="500"/>  
 
-Here's the code:
+Here's the microcontroller code:
 ``` c
 #include <Servo.h> 
  
