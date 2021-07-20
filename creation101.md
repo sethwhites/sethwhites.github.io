@@ -1,4 +1,4 @@
-# Table of Contents:
+# Creation 101 Table of Contents:
 
 [week1](week1.md)  
 [week2](week2.md)  
