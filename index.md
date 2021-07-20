@@ -5,5 +5,5 @@ This is a class I took Senior Year that teaches how to use a laser cutter, 3-D p
 Celeste is my favorite video game. Celeste is an extremely difficult platformer that has great art, music, and gameplay. You play as Madeline and are trying to climb a literal and figurative mountain. You can walk, jump, climb, and dash. I speedrun the game, so you'll see a more extreme version of it. Some of them is me playing and some are of the computer playing. For the TAS I programmed my computer to execute the inputs frame-by-frame in-game the same way I would, except without messing up!
 
 [Solenoid Driver](AutomationSubsystem.pdf)  
-I made a solenoid driver in my Capstone Project. I knew next to nothing about how to do this before starting.  
+I made a solenoid driver in my Capstone Project. I knew next to nothing about how to do this before starting.
 I made this artifact, or document so that anyone else trying to manufacture this device could.
