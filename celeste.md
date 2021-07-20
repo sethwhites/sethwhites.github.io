@@ -18,3 +18,12 @@ Video game inputs are based off of framerates. Celeste runs at 60 FPS. That mean
 
 Lvl 7 Summit TAS:
 To come, it's partially done. It takes about 3 hours to do 45 seconds of TAS inputs and this one will be 8 minutes so at minimum 30 hours, more realistically 40-50 hours.
+
+Other Input frame Data:
+- Coyote Timer
+  - You have 5 frames to jump after leaving a platform. The name of the trick is a reference to Wile E. Coyote. This trick is best shown in Ridge TAS at 2m13s.
+- Fast fall
+  - The maximum fall speed is 160. It can be increased by holding down, to a maximum of 240.
+- Random dashing while waiting for a door or something else.
+  - When dashing the game and timer freezes for 5 frames.
+- Here is a [website](http://tasvideos.org/GameResources/Windows/Celeste.html) with more frame data if you're interested.
