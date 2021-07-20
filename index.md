@@ -6,4 +6,4 @@ Celeste is my favorite video game. Celeste is an extremely difficult platformer 
 
 [Solenoid Driver](AutomationSubsystem.pdf)  
 I made a solenoid driver in my Capstone Project. I knew next to nothing about how to do this before starting.
-I made this artifact, or document so that anyone else trying to manufacture this device could.
+I made this artifact, or document, so that anyone else trying to manufacture this device could.
