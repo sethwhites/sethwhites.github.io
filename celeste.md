@@ -17,6 +17,7 @@ Video game inputs are based off of framerates. Celeste runs at 60 FPS. That mean
 [Lvl 6 Reflection TAS](https://youtu.be/WpafOMJFY3E)
 
 Lvl 7 Summit TAS:
+
 To come, it's partially done. It takes about 3 hours to do 45 seconds of TAS inputs and this one will be 8 minutes so at minimum 30 hours, more realistically 40-50 hours.
 
 Other Input frame Data:
