@@ -1,6 +1,6 @@
 # Celeste Tas and Speedruns:
 
-Video game inputs are based off of framerates. Celeste runs at 60 FPS. That means game is checking what button is pressed every 1/60th of a second. For the TAS I've gone through frame-by-frame and provided the inputs. I don't have a very good demo yet, but the video that gives the best idea of what's going on is Lvl 6 Reflection TAS because it has the TAS tools running next to the game.
+Here are some demos for the TAS. I don't have a very good demo yet, but the video that gives the best idea of what's going on is Lvl 6 Reflection TAS because it has the TAS tools running next to the game.
 
 [Lvl 1 City with me playing](https://youtu.be/63CGmfUZavI)
 
