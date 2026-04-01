@@ -1,4 +1,4 @@
-# sethwhites.github.io
+# Seth's Project Website
 My website!
 
 -	https://sethwhites.github.io/
