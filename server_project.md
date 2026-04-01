@@ -2,11 +2,11 @@
 I want to create a server that is able to host a variety of different apps that I can access remotely.
 
 ## Apps:
-  like google photos
-  Jellyfin
-  others I can't think of off the top of my head
-  thing to support vpn
-  reverse proxy
+  - like google photos
+  - Jellyfin
+  - others I can't think of off the top of my head
+  - thing to support vpn
+  - reverse proxy
 
 ## Build:
 ### Parts:
