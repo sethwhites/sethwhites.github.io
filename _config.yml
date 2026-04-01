@@ -1,3 +1,5 @@
-title: Seth White's Projects 
-description: https://sethwhites.github.io/
-theme: jekyll-theme-slate
+title: [Seth White's Projects]
+description: [https://sethwhites.github.io/]
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme
