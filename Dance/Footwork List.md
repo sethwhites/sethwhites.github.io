@@ -1,6 +1,11 @@
 # Footwork list for drilling to song
-- triple right/left
+- triples
+  - triple right/left
+  - scoot triple
+  - side cross side left then right(similar to followers side pass)
+  - sailor shuffle
 - grapevine
 - kick ball change, ronde and step
 - **jazz square left and right**
-- sailor shuffle
+- cover and pull
+- dig from shag
