@@ -7,3 +7,6 @@ Celeste is a video game. Video game inputs are based off of framerates. Celeste 
 [Solenoid Driver](AutomationSubsystem.pdf)  
 I made a solenoid driver in my Capstone Project. I knew next to nothing about how to do this before starting.
 I made this artifact, or document, so that anyone else trying to manufacture this device could.
+
+[Home Server](server_project.md)
+I want to create a Home server that is able to host a variety of different apps that I can access remotely.
