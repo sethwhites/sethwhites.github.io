@@ -1,3 +1,6 @@
+[WCS Curriculum Notes](dance.md)
+These are notes for making Dance class curriculum for West Coast Swing
+
 [Creation 101 Projects](creation101.md)  
 This is a class I took Senior Year that teaches how to use a laser cutter, 3-D printer, making molds/casts, and input/output devices. It also taught me about the importance of personal projects and how fun they can be!
 
