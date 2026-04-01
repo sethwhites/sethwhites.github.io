@@ -5,4 +5,4 @@ For making many tones I can use a microcontroller, a motor, a battery, and a sli
 
 __Cad Drawing:__
 
-![nose whistle](noseflute_img.PNG)
+![nose whistle](Files/noseflute_img.PNG)

@@ -7,7 +7,7 @@ I also used templates to make it look nice. Ironic, considering I'm using the gi
 
 __Home page:__
 
-![server_home_page](server_home_page.png)
+![server_home_page](Files/server_home_page.png)
 
 __Terminal output while running the server and clicking links:__
 

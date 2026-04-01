@@ -13,7 +13,7 @@ It's weird and I thought it would be cool to do. Especially because it's so diff
 - Grabbed stl off of website
 - 3-D printed nose flute stl
 
-<img src="noseflute_img.PNG" alt="nose_flute" width="300"/>
+<img src="Files/noseflute_img.PNG" alt="nose_flute" width="300"/>
 
 - learn about acoustic design and come up w/ mod ideas
   - putting blade at bottom like in imgs to make the flute more efficient, or louder
@@ -34,7 +34,7 @@ It's weird and I thought it would be cool to do. Especially because it's so diff
 - hot glued the motor to the nose flute
 - used arduino to control motor
 
-<img src="motor.jpg" alt="motor" width="700"/>
+<img src="Files/motor.jpg" alt="motor" width="700"/>
 
 ## Control System
 
@@ -50,7 +50,7 @@ When the button is closed (pressed), it makes a connection between its two legs,
 
 Here's how everything was connected:  
 
-<img src="arduino_setup.jpg" alt="arduino_setup" width="500"/>  
+<img src="Files/arduino_setup.jpg" alt="arduino_setup" width="500"/>  
 
 Here's the microcontroller code:
 ``` c
@@ -105,7 +105,7 @@ This [video link](https://photos.app.goo.gl/TNtic4PoJmcev7tH8) shows the code in
 
 The image below shows the final prototype.  
 
-<img src="full_system.jpg" alt="full_system" width="1000"/>
+<img src="Files/full_system.jpg" alt="full_system" width="1000"/>
 
 ## Conclusion
 

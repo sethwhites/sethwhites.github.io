@@ -4,15 +4,15 @@ This week I made an arduino blink in tinkerCAD. It was eerily similar to what I 
 
 ## Light Off:
 
-![arduinoblink_off](arduinoblink_off.PNG)
+![arduinoblink_off](Files/arduinoblink_off.PNG)
 
 ## Light On:
 
-![arduinoblink_on](arduinoblink_on.PNG)
+![arduinoblink_on](Files/arduinoblink_on.PNG)
 
 ## Parts Used:
 
-![arduinoblink_parts](arduinoblink_parts.PNG)
+![arduinoblink_parts](Files/arduinoblink_parts.PNG)
 
 ## Code:
 

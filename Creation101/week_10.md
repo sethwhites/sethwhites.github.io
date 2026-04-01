@@ -11,9 +11,9 @@ When I login with the wrong username or password it also displays the error.
 When I create an account using a proper e-mail, user name, and password it displays an affirmation.
 Funny thing is that google doesn't like the fake password I put in and warned me that I should change it immediately.
 
-![server_checklogin](server_checklogin.PNG)
+![server_checklogin](Files/server_checklogin.PNG)
 
-![server_register_already_has_user](server_register_already_has_user.PNG)
+![server_register_already_has_user](Files/server_register_already_has_user.PNG)
 
 
 Here's some sample code of my server that reads all my data.
