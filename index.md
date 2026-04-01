@@ -10,3 +10,4 @@ I made this artifact, or document, so that anyone else trying to manufacture thi
 
 [Home Server](server_project.md)  
 I want to create a Home server that is able to host a variety of different apps that I can access remotely.
+ 
