@@ -1,6 +1,12 @@
 [WCS Curriculum Notes](dance.md)
 These are notes for making Dance class curriculum for West Coast Swing
 
+[Home Server](server_project.md)  
+I want to create a Home server that is able to host a variety of different apps that I can access remotely.
+
+[DJ tools with Python and Spotify](spotify.md)
+I DJ for West Coast swing! I built a tool to scrape song data from my spotify playlists to help me build a good set.
+
 [Creation 101 Projects](creation101.md)  
 This is a class I took Senior Year that teaches how to use a laser cutter, 3-D printer, making molds/casts, and input/output devices. It also taught me about the importance of personal projects and how fun they can be!
 
@@ -10,7 +16,4 @@ Celeste is a video game. Video game inputs are based off of framerates. Celeste 
 [Solenoid Driver](AutomationSubsystem.pdf)  
 I made a solenoid driver in my Capstone Project. I knew next to nothing about how to do this before starting.
 I made this artifact, or document, so that anyone else trying to manufacture this device could.
-
-[Home Server](server_project.md)  
-I want to create a Home server that is able to host a variety of different apps that I can access remotely.
 
