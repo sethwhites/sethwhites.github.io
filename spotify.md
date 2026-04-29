@@ -5,7 +5,7 @@ I designed a tool to interface with spotify and create a csv that lets me look a
 
 ## Code:
 
-``` python
+```python
 import spotipy, requests, urllib3
 from spotipy.oauth2 import SpotifyOAuth
 import pandas as pd
