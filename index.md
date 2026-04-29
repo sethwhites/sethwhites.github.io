@@ -1,10 +1,10 @@
-[WCS Curriculum Notes](dance.md)
+[WCS Curriculum Notes](dance.md)  
 These are notes for making Dance class curriculum for West Coast Swing
 
 [Home Server](server_project.md)  
 I want to create a Home server that is able to host a variety of different apps that I can access remotely.
 
-[DJ tools with Python and Spotify](spotify.md)
+[DJ tools with Python and Spotify](spotify.md)  
 I DJ for West Coast swing! I built a tool to scrape song data from my spotify playlists to help me build a good set.
 
 [Creation 101 Projects](creation101.md)  
