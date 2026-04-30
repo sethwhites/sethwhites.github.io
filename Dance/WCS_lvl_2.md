@@ -1,13 +1,13 @@
 # WCS Level 2
 
-## Apr-Jun
+## Apr-Jun 2026
 Reverse whip with off hands  
 Armbar with whip  
 Armbar with side pass  
 Rock and Go  
 Post, double resistance  
 
-## Jan-Mar
+## Jan-Mar 2026
 Reverse whip  
 Simplified hustle whip  
 Drills:
