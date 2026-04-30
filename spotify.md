@@ -5,8 +5,6 @@ I designed a tool to interface with spotify and create a csv that lets me look a
 The code already existed to pop each song but the spotify api didn't like having a request for every song. It didn't work for very large playlists. The difficulty was learning how to structure the code to read each page from the api. Each page has 100 songs. After figuring out how to do that pulling the metadata I cared about was simple.
 
 ## Sample CSV with metadata:
-
-'''
 ,name,artist,danceability,energy,key,mode,instrumentalness,valence,tempo,id,duration_ms,time_signature
 0,Levels,Nick Jonas,0.432,0.656,5,0,0.0,0.66,198.452,6pf9datdAtxQj4EU8UYHSx,167693,4
 1,Lie to Me,MIKOLAS,0.835,0.698,6,1,1.88e-06,0.664,105.997,6zBdVVksaTQeAzwfszbovz,171080,4
@@ -19,7 +17,7 @@ The code already existed to pop each song but the spotify api didn't like having
 8,Up Down (Do This All Day) (feat. B.o.B),T-Pain,0.778,0.498,5,0,0.0,0.464,96.995,6lbhWl34Il0WXm5pX1fM9E,231093,4
 9,Down The Road,C2C,0.72,0.595,2,0,4.73e-05,0.486,111.0,1x5MjCffpcdHLf65eR9r3T,207187,4
 10,Lemonade,Danity Kane,0.76,0.73,3,0,0.0,0.741,97.152,6CP5Pb9D2LuXHBZvmrnNSz,264153,4
-'''
+
 
 ## Code:
 
