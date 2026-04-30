@@ -4,7 +4,7 @@
 I designed a tool to interface with spotify and create a csv that lets me look at metadata for songs. This is very custom. Unfortunately the code is depracated because spotify updated their back end api to hide the metadata that I cared about.  
 The code already existed to pop each song but the spotify api didn't like having a request for every song. It didn't work for very large playlists. The difficulty was learning how to structure the code to read each page from the api. Each page has 100 songs. After figuring out how to do that pulling the metadata I cared about was simple.
 
-## Sample CSV with metadata:
+## CSV with Metadata Sample:
 ,name,artist,danceability,energy,key,mode,instrumentalness,valence,tempo,id,duration_ms,time_signature  
 0,Levels,Nick Jonas,0.432,0.656,5,0,0.0,0.66,198.452,6pf9datdAtxQj4EU8UYHSx,167693,4  
 1,Lie to Me,MIKOLAS,0.835,0.698,6,1,1.88e-06,0.664,105.997,6zBdVVksaTQeAzwfszbovz,171080,4  
