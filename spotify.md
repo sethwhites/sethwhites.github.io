@@ -3,7 +3,6 @@
 ## Tool:
 I designed a tool to interface with spotify and create a csv that lets me look at metadata for songs. This is very custom. Unfortunately the code is depracated because spotify updated their back end api to hide the metadata that I cared about.
 ## Sample CSV with metadata:
-'''
 |    | name                                                                 | artist            | danceability | energy | key | mode | instrumentalness | valence | tempo   | id                     | duration_ms | time_signature |
 |----|----------------------------------------------------------------------|-------------------|--------------|--------|-----|------|------------------|---------|---------|------------------------|-------------|----------------|
 | 0  | Levels                                                               | Nick Jonas        | 0.432        | 0.656  | 5   | 0    | 0.0              | 0.66    | 198.452 | 6pf9datdAtxQj4EU8UYHSx | 167693      | 4              |
@@ -17,18 +16,7 @@ I designed a tool to interface with spotify and create a csv that lets me look a
 | 8  | Up Down (Do This All Day) (feat. B.o.B)                              | T-Pain            | 0.778        | 0.498  | 5   | 0    | 0.0              | 0.464   | 96.995  | 6lbhWl34Il0WXm5pX1fM9E | 231093      | 4              |
 | 9  | Down The Road                                                        | C2C               | 0.72         | 0.595  | 2   | 0    | 4.73e-05         | 0.486   | 111.0   | 1x5MjCffpcdHLf65eR9r3T | 207187      | 4              |
 | 10 | Lemonade                                                             | Danity Kane       | 0.76         | 0.73   | 3   | 0    | 0.0              | 0.741   | 97.152  | 6CP5Pb9D2LuXHBZvmrnNSz | 264153      | 4              |
-| 11 | Kiss - Recorded at Spotify Studios NYC                               | Kelly Clarkson    | 0.712        | 0.683  | 11  | 0    | 0.0              | 0.476   | 92.012  | 7Kfpow0FQwvw3xxrRdXgf9 | 243627      | 4              |
-| 12 | Back to Sleep                                                        | Max Landry        | 0.563        | 0.354  | 1   | 1    | 0.0              | 0.421   | 88.192  | 2Uq0noWIJXKwqKHKGM3Uvo | 207886      | 4              |
-| 13 | Twerk It Like Miley                                                  | Brandon Beal      | 0.621        | 0.41   | 11  | 1    | 0.0              | 0.337   | 68.055  | 3Mf5lroDtECoRWVUWnHCo8 | 200280      | 5              |
-| 14 | Go to Work                                                           | Tim Omaji         | 0.779        | 0.593  | 11  | 0    | 0.0              | 0.851   | 203.913 | 1VxnTTuw291SryXGcKY2H5 | 164266      | 4              |
-| 15 | The Water Dance                                                      | Chris C-PO Porter | 0.868        | 0.732  | 7   | 1    | 9.45e-05         | 0.48    | 105.087 | 4Egx5RmA0oBfq9aNhxszkO | 225884      | 4              |
-| 16 | Reverse                                                              | Sage The Gemini   | 0.808        | 0.72   | 6   | 0    | 0.0              | 0.541   | 101.988 | 3S1D7s5xsuitIti64XQHg7 | 191856      | 4              |
-| 17 | Chingalinga (feat. Jason Derulo)                                     | Alyxx Dione       | 0.663        | 0.72   | 8   | 1    | 9.71e-06         | 0.568   | 79.998  | 3pYG7o2sHuz58upQoSEYuA | 201835      | 4              |
-| 18 | Plot Twist                                                           | Marc E. Bassy     | 0.543        | 0.644  | 1   | 1    | 0.0              | 0.706   | 97.41   | 5wJL4o7k8m02m6ZM9KT0ir | 227147      | 4              |
-| 19 | ADD                                                                  | dwilly            | 0.752        | 0.624  | 4   | 0    | 0.0              | 0.459   | 140.067 | 20DInrAonQILzH7q8CvNVF | 175179      | 4              |
-| 20 | Roll Thru                                                            | Sickick           | 0.645        | 0.723  | 2   | 0    | 0.00188          | 0.337   | 169.893 | 5VHP7EkhAW9Vmn7SxuRuuk | 280063      | 4              |
 
-'''
 ## Code:
 
 ```python
