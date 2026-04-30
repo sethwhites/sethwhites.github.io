@@ -6,7 +6,7 @@ Drills:
 -	Dancer calf raises (slow and using different parts of your foot)
 -	Weight transfer through feet(calf raises forward, back, side to side)
 -	Place foot over foot and push other foot out
--	Sugar push through weight transfers (follows move the leaders hands)
+-	Sugar push through weight transfers (follows move the leaders hands)  
 Free spin  
 Scroll  
 Telemark  
