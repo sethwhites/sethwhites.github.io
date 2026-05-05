@@ -9,7 +9,8 @@ Starter Step
 Whip
 -	Normal - (BASIC)
 -	Outside
--	Inside  
+-	Inside
+
 Basket whip  
 Inside turn  
 Sugar tuck - (BASIC)  
