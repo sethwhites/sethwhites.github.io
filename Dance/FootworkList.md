@@ -1,4 +1,11 @@
-# Footwork list for drilling to song
+#Drills and Skills
+# Technique
+- framing lead and follow
+- triple step (partial, full, delay)
+- use back instead of bicep
+
+
+## Footwork list for drilling to song
 - triples
   - triple right/left
   - scoot triple
