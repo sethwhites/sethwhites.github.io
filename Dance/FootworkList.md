@@ -1,5 +1,5 @@
-#Drills and Skills
-# Technique
+# Drills and Skills
+## Technique
 - framing lead and follow
 - triple step (partial, full, delay)
 - use back instead of bicep
