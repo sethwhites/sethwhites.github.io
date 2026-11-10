@@ -12,11 +12,10 @@ sugar push
 right torque turn  
 whip with outside turn  
 underarm turn  
-Whip with inside turn  
-
-
 
 
 Rotating basic  
 Starter Step
-Inside
+Whip with inside turn  
+Basket whip
+Inside turn
