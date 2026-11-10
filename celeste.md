@@ -1,7 +1,7 @@
 # Celeste Tas and Speedruns:
 
-There are tas tools somebody already wrote for the game so all I had to do was write the script, not the interface with the game.
-Here are some demos for the TAS. The video that gives the best idea of what's going on is Lvl 6 Reflection TAS because it has the TAS tools running next to the game.
+There are tas tools somebody already wrote for the game so all I had to do was write the script, not the interface with the game.  
+Here are some demos for my TAS. The video that gives the best idea of what's going on is Lvl 6 Reflection TAS because it has the TAS tools running next to the game.  
 What is ridiculous is that the world record speedrun is faster than this. The main reason is because the world record implements different strategies. I scripted strategies I could do in-game, just with a tas flair and perfect. So what you are seeing is a Seth human-theory run.
 
 [Full Celeste Tas by Me](https://youtu.be/V_-r9jHL_Rs)
