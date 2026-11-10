@@ -13,9 +13,9 @@
 9. whip with outside turn
 10. underarm turn  
 
-sugar tuck
+sugar tuck  
 Rotating basic  
-Starter Step
+Starter Step  
 Whip with inside turn  
-Basket whip
-Inside turn
+Basket whip  
+Inside turn  
