@@ -1,6 +1,10 @@
 # Celeste Tas and Speedruns:
 
-Here are some demos for the TAS. I don't have a very good demo yet, but the video that gives the best idea of what's going on is Lvl 6 Reflection TAS because it has the TAS tools running next to the game.
+There are tas tools somebody already wrote for the game so all I had to do was write the script, not the interface with the game.
+Here are some demos for the TAS. The video that gives the best idea of what's going on is Lvl 6 Reflection TAS because it has the TAS tools running next to the game.
+What is ridiculous is that the world record speedrun is faster than this. The main reason is because the world record implements different strategies. I scripted strategies I could do in-game, just with a tas flair and perfect. So what you are seeing is a Seth human-theory run.
+
+[Celeste Tas by Me](https://youtu.be/V_-r9jHL_Rs)
 
 [Lvl 1 City with me playing](https://youtu.be/63CGmfUZavI)
 
@@ -17,10 +21,12 @@ Here are some demos for the TAS. I don't have a very good demo yet, but the vide
 [Lvl 6 Reflection TAS](https://youtu.be/WpafOMJFY3E)
 
 Lvl 7 Summit TAS:
+This is in the finished TAS. :)  
+I ended up writing the first 1 minute 30 seconds of it and didn't want to spend another 40 hours on it so I finished it with the crowd sourced TAS.  
 
-To come, it's partially done. It takes about 3 hours to do 45 seconds of TAS inputs and this one will be 8 minutes so at minimum 30 hours, more realistically 40-50 hours.
 
-Other Input frame Data:
+
+Interesting Input frame Data:
 - Coyote Timer
   - You have 5 frames to jump after leaving a platform. The name of the trick is a reference to Wile E. Coyote. This trick is best shown in Ridge TAS at 2m13s.
 - Fast fall
