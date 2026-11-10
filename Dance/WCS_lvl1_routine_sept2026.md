@@ -1,6 +1,6 @@
 # WCS LVL 1 (12 wk routine)
 
-Song: son of a preacher man  
+## Song: son of a preacher man  
 
 1st 8 count hang out  
 Tap Step (start on 1 of 2nd 8 count)  
