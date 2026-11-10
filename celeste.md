@@ -8,7 +8,7 @@ What is ridiculous is that the world record speedrun is faster than this. The ma
 
 [Lvl 1 City with me playing](https://youtu.be/63CGmfUZavI)
 
-[Lvl 1 City with TAS:](https://youtu.be/62jAoRVd0HU)
+[Lvl 1 City with TAS](https://youtu.be/62jAoRVd0HU)
 
 [Lvl 2 Site with Me vs TAS](https://youtu.be/RH1Oe4LQBbA)
 
