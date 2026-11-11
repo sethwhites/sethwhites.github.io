@@ -6,12 +6,14 @@
 2. Tap Step 4 counts(start on 1 of 2nd 8 count)
 3. Starter Step
 4. Left side pass (should be on 1)
-5. under arm turn
-6. whip
-7. sugar push
-8. right torque turn
-9. whip with outside turn
-10. underarm turn
+5. whip
+6. under arm turn
+7. whip with outside turn 
+8. underarm turn
+9. right torque turn
+10. sugar push
+11. whip with inside turn
+
 
 sugar tuck  
 Rotating basic  
