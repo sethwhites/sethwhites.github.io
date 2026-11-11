@@ -8,16 +8,15 @@
 4. Left side pass (should be on 1)
 5. whip
 6. under arm turn
-7. whip with outside turn 
+7. whip with outside turn
 8. underarm turn
 9. right torque turn
 10. sugar push
 11. whip with inside turn
-
-
-sugar tuck  
-Rotating basic  
-Starter Step  
-Whip with inside turn  
-Basket whip  
-Inside turn  
+12. Left side pass
+13. Rotating basic
+14. Passing tuck
+15. Reverse whip
+16. Sugar tuck
+17. Inside turn
+18. Basket whip
