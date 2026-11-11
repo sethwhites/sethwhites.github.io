@@ -13,10 +13,11 @@
 9. right torque turn
 10. sugar push
 11. whip with inside turn
-12. Left side pass
-13. Rotating basic
-14. Passing tuck
-15. Reverse whip
-16. Sugar tuck
-17. Inside turn
-18. Basket whip
+12. grove for 2 counts to emphasize phrase change
+13. Left side pass
+14. Rotating basic
+15. Passing tuck
+16. Reverse whip
+17. Sugar tuck
+18. Inside turn
+19. Basket whip
